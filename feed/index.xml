@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Electrical Concepts Inc.</title>
-	<atom:link href="https://ecipower.com/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ecipower.com/</link>
+	<atom:link href="http://ecipower.com/feed/" rel="self" type="application/rss+xml" />
+	<link>http://ecipower.com/</link>
 	<description>ECI Standby Power Systems</description>
 	<lastBuildDate>Wed, 03 Aug 2016 11:49:22 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,15 +21,15 @@
 	
 	<item>
 		<title>Call us today to schedule your FREE in home consultation!</title>
-		<link>https://ecipower.com/call-us-today-to-schedule-your-free-in-home-consultation/</link>
+		<link>http://ecipower.com/call-us-today-to-schedule-your-free-in-home-consultation/</link>
 		
 		<dc:creator><![CDATA[ECIadmin]]></dc:creator>
 		<pubDate>Wed, 03 Aug 2016 11:49:22 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://ecipower.com/?p=76</guid>
+		<guid isPermaLink="false">http://ecipower.com/?p=76</guid>
 
 					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<p><a href="https://ecipower.com/eci-wp-content/uploads/2016/08/10yrWarrantyOffer-FB-3.jpg"><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-82" src="https://ecipower.com/eci-wp-content/uploads/2016/08/10yrWarrantyOffer-FB-3-300x169.jpg" alt="10yrWarrantyOffer-FB (3)" width="300" height="169" /></a></p>
+										<content:encoded><![CDATA[<p><a href="http://ecipower.com/eci-wp-content/uploads/2016/08/10yrWarrantyOffer-FB-3.jpg"><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-82" src="http://ecipower.com/eci-wp-content/uploads/2016/08/10yrWarrantyOffer-FB-3-300x169.jpg" alt="10yrWarrantyOffer-FB (3)" width="300" height="169" /></a></p>
 ]]></content:encoded>
 					
 		
